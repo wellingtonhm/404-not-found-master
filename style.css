@@ -4,40 +4,50 @@
 
 :root{
     font-family: 'Space Mono', monospace;
-    font-size: 16px;    
+    font-size: 16px; 
+    width: 100%; 
+    height:100%;  
+    margin: 0;
 }
 
-/* Header */
+#container {
+    margin: 1.25rem 1.5rem 1.5rem 1.5rem;
+}
+
+/***** Header *****/
 .logo {
     font-family: 'Inconsolata', monospace;    
     font-size: 1.5rem;
     font-weight: 700;
 }
+#logo-header{
+    margin-bottom: 4rem;
+}
 
-/* Main */
-
+/***** Main *****/
 
 
 #page {
     display: grid;
-    width: 100%;
+    
 }
 
 img {
     width: 100%;
+
 }
-
-
 
 .title-content {
     font-size: 3rem;
     font-weight: 700;
+    color: #333333;
 
 }
 
 .text-content{
     font-size: 1rem;
     font-weight: 400;
+    color: #4F4F4F;
 }
 
 .button-content {
@@ -45,13 +55,17 @@ img {
     font-weight: 700;
 }
 
-/* Footer */
+/***** Footer *****/
 
 .copyright-create{
     font-family: 'Montserrat', sans-serif;
     font-size: 0.875rem;
     font-weight: 500;
+    color: #BDBDBD;
+    text-align: center;
 }
+
+/***** Media *****/
 
 @media(min-width: 720px){
     #page {
