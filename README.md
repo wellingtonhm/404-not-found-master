@@ -13,11 +13,11 @@
     </a>
     <span> | </span>
     <a href="https://{your-url-to-the-solution}">
-      Solution
+      Solução
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
+      Desafio
     </a>
   </h3>
 </div>
@@ -26,9 +26,9 @@
 
 ## Indice
 
-- [Overview](#Visão-Geral)
-  - [Built With](#Construido-com)
-- [Contact](#Contato)
+- [Visão Geral](#Visão-Geral)
+  - [Construido com](#Construido-com)
+- [Contato](#Contato)
 
 
 <!-- OVERVIEW -->
@@ -49,5 +49,5 @@ Este aplicativo / site foi criado como uma submissão a um desafio [DevChallenge
 
 ## Contato
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [Honorios](https://honorios.com.br)
 - GitHub [@wellingtonhm](https://github.com/wellingtonhm)
