@@ -43,7 +43,6 @@ Este site foi criado como resultado a um desafio [DevChallenges](https://devchal
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Contato
 
