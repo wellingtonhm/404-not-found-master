@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">404 - Not found Mater</h1>
 
 <div align="center">
@@ -8,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://wellingtonhm.github.io/404-not-found-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://wellingtonhm.github.io/404-not-found-master/">
+    <a href="https://github.com/wellingtonhm/404-not-found-master">
       Solução
     </a>
     <span> | </span>
@@ -26,26 +24,24 @@
 
 ## Indice
 
-- [Visão Geral](#Visão-Geral)
-  - [Construido com](#Construido-com)
-- [Contato](#Contato)
+- [Objetivo](#objetivo)
+- [Tecnologia](#tecnologia)
+- [Contato](#contato)
+
+## Objetivo
+
+![screenshot](https://raw.githubusercontent.com/wellingtonhm/404-not-found-master/master/src/404-not-found-master.png)
+
+Este site foi criado como resultado a um desafio [DevChallenges](https://devchallenges.io/challenges).<br/>
+**Desafio:** Criar uma página 404 não encontrada seguindo o design. A página deve ser responsiva. Preencher requisitos abaixo:
+
+- Ver uma página seguindo o design fornecido
 
 
-<!-- OVERVIEW -->
-
-## Visão Geral
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-Este aplicativo / site foi criado como uma submissão a um desafio [DevChallenges](https://devchallenges.io/challenges) challenge. O [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir uma pagina web de erro 404 seguindo o Design do Figma.
-
-### Construido com
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+## Tecnologia
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Contato
 
