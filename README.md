@@ -24,15 +24,16 @@
 
 ## Indice
 
-- [Objetivo](#objetivo)
+- [Visão Geral](#visão-geral)
 - [Tecnologia](#tecnologia)
 - [Contato](#contato)
 
-## Objetivo
+## Visão Geral
 
 ![screenshot](https://raw.githubusercontent.com/wellingtonhm/404-not-found-master/master/src/404-not-found-master.png)
 
-Este site foi criado como resultado a um desafio [DevChallenges](https://devchallenges.io/challenges).<br/>
+Este site foi criado como resultado a um desafio [DevChallenges](https://devchallenges.io/challenges).
+
 **Desafio:** Criar uma página 404 não encontrada seguindo o design. A página deve ser responsiva. Preencher requisitos abaixo:
 
 - Ver uma página seguindo o design fornecido
@@ -42,6 +43,7 @@ Este site foi criado como resultado a um desafio [DevChallenges](https://devchal
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Contato
 
