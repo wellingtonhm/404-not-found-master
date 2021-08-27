@@ -22,6 +22,8 @@
 
 <!-- TABLE OF CONTENTS -->
 
+![screenshot](https://raw.githubusercontent.com/wellingtonhm/404-not-found-master/master/src/404-not-found-master.png)
+
 ## Indice
 
 - [Visão Geral](#visão-geral)
@@ -30,7 +32,7 @@
 
 ## Visão Geral
 
-![screenshot](https://raw.githubusercontent.com/wellingtonhm/404-not-found-master/master/src/404-not-found-master.png)
+
 
 Este site foi criado como resultado a um desafio [DevChallenges](https://devchallenges.io/challenges).
 
@@ -38,6 +40,7 @@ Este site foi criado como resultado a um desafio [DevChallenges](https://devchal
 
 - Ver uma página seguindo o design fornecido
 
+Seguir este design: Link [Figma](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE) 
 
 ## Tecnologia
 
